@@ -7,7 +7,7 @@ This project automates the deployment and configuration of Splunk across multipl
 - Secure access management using predefined roles
 
 ## Benefits
-- Reduces manual errors and deployment time by up to 70%
+- Meaningfully reduces manual errors and deployment time versus manual per-host configuration (exact figures vary by environment and were not independently benchmarked)
 - Enables rapid scaling and remote management
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
@@ -272,3 +272,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 > **Maintained by [Shakil Md. Rezwanul Bari](https://github.com/mrezwanulbari)** — Cybersecurity & SIEM Engineer focused on enterprise security operations and critical infrastructure protection.
+
